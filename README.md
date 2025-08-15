@@ -1,2 +1,2 @@
 # Portfolio
-Build a small project using html css  to enhance my knowledge and show something creattive
+Build a small project using html, css , Javascript and flask  to enhance my knowledge and show something creattive
